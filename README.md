@@ -1,4 +1,4 @@
-<img src="Source/header.jpg" width="900" height="600" />
+<img align="center" src="Source/header.jpg" width="600" height="400" />
 
 # Analyze-TMDb-Movie-Data.
 
@@ -24,6 +24,6 @@ In this project, I'll go through the data analysis process and see how everythin
     ./Source/ contains the project images.
 
 ### About Dataset 
-<img src="Source/dataset.jpg" width="400" height="400" />
+<img align="center" src="Source/dataset.jpg" width="400" height="400" />
 
 
