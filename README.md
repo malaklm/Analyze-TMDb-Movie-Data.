@@ -23,7 +23,7 @@ In this project, I'll go through the data analysis process and see how everythin
 ### File Descriptions
     ./Data/ contains the various datasets
     ./Investigate_a_Dataset.ipynb is a Jupyter notebook containing the work I have done
-    ./Investigate_a_Dataset.pdf is an exported version of the above file using LaTeX
+    ./Investigate_a_Dataset.html is an HTML Page exported version
     ./Source/ contains the project images.
 
 ### About Dataset 
