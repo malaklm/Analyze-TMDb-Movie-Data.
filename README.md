@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Source/header.jpg" width="600" height="400" />
 </p>
+
 # Analyze-TMDb-Movie-Data.
 
 ## Description
@@ -29,6 +30,43 @@ In this project, I'll go through the data analysis process and see how everythin
 <p align="center">
   <img align="center" src="Source/dataset.jpg" width="400" height="400" />
 </p>
+
+<img src="Source/break.png" />
+
+<p align="center">
+  <img align="center" src="Source/1.jpg" width="400" height="400" />
+</p>
+
+<img src="Source/break.png" />
+
+<p align="center">
+  <img align="center" src="Source/2.jpg" width="400" height="400" />
+</p>
+
+<img src="Source/break.png" />
+
+<p align="center">
+  <img align="center" src="Source/3.jpg" width="400" height="400" />
+</p>
+
+<img src="Source/break.png" />
+
+<p align="center">
+  <img align="center" src="Source/4.jpg" width="400" height="400" />
+</p>
+
+<img src="Source/break.png" />
+
+<p align="center">
+  <img align="center" src="Source/5.jpg" width="400" height="400" />
+</p>
+
+<img src="Source/break.png" />
+
+<p align="center">
+  <img align="center" src="Source/6.jpg" width="400" height="400" />
+</p>
+
 
 
 
