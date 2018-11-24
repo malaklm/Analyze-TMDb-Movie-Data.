@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Source/header.jpg" width="1000" height="600" />
+  <img src="Source/header.jpg" width="700" height="500" />
 </p>
 
 # Analyze TMDb Movie Data.
