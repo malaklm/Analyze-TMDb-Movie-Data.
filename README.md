@@ -4,10 +4,6 @@
 
 # Analyze TMDb Movie Data.
 
-Matt Gershoff, Condutrics:
-
->“Test is really data collection. Personally, I think the winner/loser vocabulary perhaps induces risk adversity.”
-
 ## Description
 ### About the project
 In this project, I have to choose any one Dataset for investigation out of 5. [Click here](https://docs.google.com/document/d/e/2PACX-1vTlVmknRRnfy_4eTrjw5hYGaiQim5ctr9naaRd4V9du2B5bxpd8FEH3KtDgp8qVekw7Cj1GLk1IXdZi/pub?embedded=True) to open a document with links and information about datasets that I can investigate for this project.
