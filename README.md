@@ -21,9 +21,9 @@ In this project, I'll go through the data analysis process and see how everythin
 <img src="Source/break.png" />
 
 ### File Descriptions
-    ./Data/ contains the various datasets
+    ./Data/ contains the dataset
     ./Investigate_a_Dataset.ipynb is a Jupyter notebook containing the work I have done
-    ./Investigate_a_Dataset.html is an HTML Page exported version
+    ./Investigate_a_Dataset.pdf is an PDF exported version
     ./Source/ contains the project images.
 
 ### About Dataset 
