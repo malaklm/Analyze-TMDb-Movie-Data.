@@ -34,13 +34,13 @@ In this project, I'll go through the data analysis process and see how everythin
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/1.jpg" width="600" height="400" />
+  <img align="center" src="Source/1.jpg" width="600" height="500" />
 </p>
 
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/2.jpg" width="400" height="400" />
+  <img align="center" src="Source/2.jpg" width="600" height="500" />
 </p>
 
 <img src="Source/break.png" />
