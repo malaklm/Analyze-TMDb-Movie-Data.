@@ -1,4 +1,4 @@
-![picture alt](Source/header.jpg)
+![picture alt](Source/header.jpg =1000x600)
 
 # Analyze-TMDb-Movie-Data.
 
@@ -24,7 +24,7 @@ In this project, I'll go through the data analysis process and see how everythin
     ./Source/ contains the project images.
 
 ### About Dataset 
-![picture alt](Source/dataset.jpg)
+![picture alt](Source/dataset.jpg =250x250)
 
 
 
