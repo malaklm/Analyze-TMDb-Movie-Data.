@@ -24,6 +24,7 @@ In this project, I'll go through the data analysis process and see how everythin
     ./Data/ contains the dataset
     ./Investigate_a_Dataset.ipynb is a Jupyter notebook containing the work I have done
     ./Investigate_a_Dataset.pdf is an PDF exported version
+    ./Investigate_a_Dataset.html is an HTML exported version
     ./Source/ contains the project images.
 
 ### About Dataset 
