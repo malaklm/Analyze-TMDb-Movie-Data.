@@ -1,4 +1,4 @@
-<img src="Source/header.jpg" width="600" height="400" />
+<img src="Source/header.jpg" width="900" height="600" />
 
 # Analyze-TMDb-Movie-Data.
 
@@ -15,7 +15,7 @@ For this project, I will conduct my own data analysis and create a file to share
 ### Why this project
 In this project, I'll go through the data analysis process and see how everything fits together. I'll use the Python libraries NumPy, pandas, and Matplotlib which make writing data analysis code in Python a lot easier! Not only that, these are sought-after skills by employers!
 
-<img src="Source/break.png" width="600" height="100" />
+<img src="Source/break.png" width="400" height="100" />
 
 ### File Descriptions
     ./Data/ contains the various datasets
