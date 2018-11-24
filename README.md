@@ -2,7 +2,11 @@
   <img src="Source/header.jpg" width="1000" height="600" />
 </p>
 
-# Analyze-TMDb-Movie-Data.
+# Analyze TMDb Movie Data.
+
+Matt Gershoff, Condutrics:
+
+>“Test is really data collection. Personally, I think the winner/loser vocabulary perhaps induces risk adversity.”
 
 ## Description
 ### About the project
