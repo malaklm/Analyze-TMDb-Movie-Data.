@@ -1,4 +1,4 @@
-![picture alt](Source/header.jpg =1000x600)
+<img src="Source/header.jpg" width="1000" height="600" />
 
 # Analyze-TMDb-Movie-Data.
 
