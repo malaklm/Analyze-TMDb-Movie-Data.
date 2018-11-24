@@ -28,13 +28,13 @@ In this project, I'll go through the data analysis process and see how everythin
 
 ### About Dataset 
 <p align="center">
-  <img align="center" src="Source/dataset.jpg" width="600" height="400" />
+  <img align="center" src="Source/dataset.jpg" width="400" height="400" />
 </p>
 
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/1.jpg" width="400" height="400" />
+  <img align="center" src="Source/1.jpg" width="600" height="400" />
 </p>
 
 <img src="Source/break.png" />
