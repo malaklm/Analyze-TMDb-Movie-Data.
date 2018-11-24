@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Source/header.jpg" width="600" height="400" />
+  <img src="Source/header.jpg" width="1000" height="600" />
 </p>
 
 # Analyze-TMDb-Movie-Data.
@@ -46,25 +46,25 @@ In this project, I'll go through the data analysis process and see how everythin
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/3.jpg" width="400" height="400" />
+  <img align="center" src="Source/3.png" width="600" height="500" />
 </p>
 
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/4.jpg" width="400" height="400" />
+  <img align="center" src="Source/4.jpg" width="600" height="500" />
 </p>
 
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/5.jpg" width="400" height="400" />
+  <img align="center" src="Source/5.jpg" width="600" height="500" />
 </p>
 
 <img src="Source/break.png" />
 
 <p align="center">
-  <img align="center" src="Source/6.jpg" width="400" height="400" />
+  <img align="center" src="Source/6.jpg" width="600" height="500" />
 </p>
 
 
